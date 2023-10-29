@@ -1,5 +1,5 @@
-title: "Hugo Community Modules"
-baseURL: "https://hugo-mods.github.io"
+title: "testsite"
+baseURL: "https://nightlyte-dev.github.io/testsite"
 languageCode: "en-US"
 theme: "github.com/kdevo/osprey-delight"
 tags: ["hugo", "modules", "hugo-mods"]
