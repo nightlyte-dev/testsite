@@ -3,7 +3,7 @@ baseURL: "https://nightlyte-dev.github.io/testsite"
 languageCode: "en-US"
 theme: "github.com/kdevo/osprey-delight"
 tags: ["hugo", "modules", "hugo-mods"]
-#canonifyURLS: true
+canonifyURLS: true
 #googleAnalytics: ""
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
