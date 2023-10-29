@@ -1,5 +1,5 @@
 title: "testsite"
-baseURL: "//nightlyte.io/testsite/"
+baseURL: "http://nightlyte.io/testsite/"
 languageCode: "en-US"
 theme: "github.com/kdevo/osprey-delight"
 tags: ["hugo", "modules", "hugo-mods"]
